@@ -19,6 +19,7 @@
 
 [github pages link](https://valerii-frontend.github.io/Landing_page--Aspgroup/)
 
+![](./Screenshot.png)
 
 **👤 Author**
 
